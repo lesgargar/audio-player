@@ -6,10 +6,11 @@
 .song {
   background: #262626;
 }
-.song:hover {
-  background: #535353;
-}
 
 .text-gray {
   color: #6a6a6a;
+}
+
+.active-song {
+  background: #592c63;
 }
